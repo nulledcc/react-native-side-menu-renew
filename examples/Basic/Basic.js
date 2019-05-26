@@ -6,7 +6,7 @@ import {
   Image,
   TouchableOpacity,
 } from 'react-native';
-import SideMenu from 'react-native-side-menu';
+import SideMenu from 'react-native-side-menu-renew';
 import Menu from './Menu';
 
 const image = require('./assets/menu.png');
